@@ -1,6 +1,6 @@
 #String常用函数
 判断  
- *boolean equals(Object obj):比较字符串的内容是否相同，严格区分大小写  
+ * boolean equals(Object obj):比较字符串的内容是否相同，严格区分大小写  
  * boolean equalsIgnoreCase(String str):比较字符串的内容是否相同，不考虑大小写  
  * boolean contains(String str):判断是否包含指定的小串  
  * boolean startsWith(String str):判断是否以指定的字符串开头  
