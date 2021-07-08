@@ -50,6 +50,7 @@ Java8中处理集合的关键抽象概念，可以指定希望对集合进行的
 步骤：创建Stream -> 中间操作 -> 终止操作
 
 
+![XIAN CHENG](https://github.com/wls860707495/Java/blob/master/img/940099032.jpeg) 
 
 各步骤操作函数自行查看
 
